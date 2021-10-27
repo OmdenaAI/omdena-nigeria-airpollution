@@ -39,3 +39,18 @@ Leveraging Data Science Techniques to Raise Awareness of Air Pollution in Nigeri
     └── results        <- Folder to store Final analysis and modeling results and code.
 ```
 
+## Folder Overview
+
+- Original - Folder Containing old/completed Omdena challenge code.
+- Reports - Folder to store all Final Reports of this project
+- Data - Folder to Store all the data collected and used for this project
+- Docs - Folder for Task documentation, Meeting Presentations, and task Workflow Documents and Diagrams.
+- References - Folder to store any referenced code/research papers and other useful documents used for this project
+- Tasks - Master folder for all tasks
+    - All Task Folder names should follow the specific naming convention
+    - All Task folder names should be in chronological order (from 1 to n)
+    - All Task folders should have a README.md file with task Details and task goals along with an info table containing all code/notebook files with their links and information
+Update the task table whenever a task is created and explain the purpose and goals of the task to others.
+- Visualization - Folder to store dashboards, analysis, and visualization reports
+- Results - Folder to store final analysis modeling results for the project.
+
