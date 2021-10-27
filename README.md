@@ -54,3 +54,26 @@ Update the task table whenever a task is created and explain the purpose and goa
 - Visualization - Folder to store dashboards, analysis, and visualization reports
 - Results - Folder to store final analysis modeling results for the project.
 
+## Project Setup
+Open the Command line or Terminal
+
+- Clone the repository
+```
+git clone https://github.com/OmdenaAI/omdena-nigeria-airpollution.git
+```
+- Move to the folder
+
+```
+cd omdena-nigeria-airpollution
+```
+
+- To open with VSCode
+```
+code .
+```
+
+- To open with Jupyter notebook (or manually open using Jupyter notebook app)
+```
+jupyter notebook
+```
+
